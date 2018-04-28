@@ -8,3 +8,6 @@ this is a rough idea but a neat one that i think i can find most of the pieces o
 
 
 ? 2way read write
+
+Resource video for sqlite3:
+https://www.youtube.com/watch?v=pd-0G0MigUA
