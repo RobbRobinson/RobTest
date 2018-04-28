@@ -1,4 +1,4 @@
-# RobTest
+# wolverinepy ~ a python code playground for the cs-lab
 
 i've decided that i  want to make a flask app in python to make a small window for which i can code python on the domain i just bought called 'wolverinepy.com'; i want to make it into a code playground using the 'Brython' plug- in. i heard about it thru my favorite python YouTuber 'Sentdex'; he uses it on his site "pythonprogramming.net'.
 
